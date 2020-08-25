@@ -1,0 +1,1 @@
+# fluxcd-quick-start-shared-services-base
